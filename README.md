@@ -5,3 +5,5 @@
 <img width="1462" alt="Ảnh màn hình 2024-10-15 lúc 08 08 37" src="https://github.com/user-attachments/assets/c9183976-a227-443a-8ddd-72efc25c3112">
 <h2> Bài 6 </h2>
 <img width="1346" alt="Ảnh màn hình 2024-10-15 lúc 08 33 06" src="https://github.com/user-attachments/assets/c373b6de-574c-4225-9088-e9574d728820">
+<h2>bài 8 </h2>
+<img width="1325" alt="Ảnh màn hình 2024-10-15 lúc 09 12 03" src="https://github.com/user-attachments/assets/d0375b96-e25b-40e9-8dfe-db038b2b132e">
